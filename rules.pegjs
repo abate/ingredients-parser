@@ -230,6 +230,8 @@ imprecise_unit
   / splash
   / sprig
   / sheet
+  / clove
+  / bunch
 
 dash
   = 'dashes'i
@@ -270,3 +272,11 @@ sprig
 sheet
   = 'sheets'i
   / 'sheet'i
+
+bunch
+  = 'bunches'i
+  / 'bunch'i
+  
+ clove
+  = 'cloves'i
+  / 'clove'i
